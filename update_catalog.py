@@ -3,12 +3,15 @@
 Stdlib only. Polite: honors robots.txt, identifies itself, rate-limits.
 Never deletes existing entries; aborts (exit 1) if parsing looks broken."""
 import json, re, sys, time, datetime, difflib, urllib.request, urllib.robotparser
+from urllib.parse import urlsplit, parse_qsl, urlencode
 from html.parser import HTMLParser
 
 BASE = "https://tamashiiweb.com"
 UA = "FiguartsVaultBot/1.0 (hobby catalog; contact: YOUR_EMAIL_HERE)"
-DELAY, MAX_REQUESTS, MIN_FOUND = 1.5, 120, 15
-LIST_PAGES = ["/item_brand/shfiguarts/", "/item_brand/shinkocchou/", "/item_brand/figuarts_series/"]
+DELAY, MAX_REQUESTS, MIN_FOUND = 1.5, 300, 15
+LIST_PAGES = ["/item/?br=shfiguarts", "/item/?br=shinkocchou", "/item/?br=figuarts_series",
+              "/item_brand/shfiguarts/", "/item_brand/shinkocchou/", "/item_brand/figuarts_series/"]
+PAGE_KEYS = {"page", "p", "pg", "pn", "paged", "pageno", "offset"}
 MONTHS = {m: i + 1 for i, m in enumerate("January February March April May June July August September October November December".split())}
 
 class Anchors(HTMLParser):
@@ -84,8 +87,7 @@ class Fetcher:
         try: self.rp.read()
         except Exception: pass
     def get(self, path):
-        sep = "&" if "?" in path else "?"
-        url = BASE + path + sep + "wovn=en"
+        url = BASE + path
         if self.n >= MAX_REQUESTS or not self.rp.can_fetch(UA, url): return ""
         self.n += 1; time.sleep(DELAY)
         try:
@@ -106,13 +108,46 @@ def series_from_character_pages(fx):
             out.setdefault(tn, label)
     return out
 
+def split(path):
+    u = urlsplit(path)
+    q = [(k, v) for k, v in parse_qsl(u.query) if k != "wovn"]
+    return u.path, q
+
+def next_pages(html, cur):
+    """Links that are other pages of the same listing: same path, same filters, a page-number parameter."""
+    cpath, cq = split(cur)
+    base = sorted((k, v) for k, v in cq if k not in PAGE_KEYS)
+    out = []
+    for href, _ in anchors(html):
+        h = href[len(BASE):] if href.startswith(BASE) else href
+        if not h.startswith("/"): continue
+        p, q = split(h)
+        if p != cpath or not any(k in PAGE_KEYS for k, _ in q): continue
+        if sorted((k, v) for k, v in q if k not in PAGE_KEYS) != base: continue
+        out.append(p + "?" + urlencode(q))
+    return out
+
+def crawl(fx, seeds, reserve=60):
+    queue, seen, found = list(seeds), set(), {}
+    while queue and fx.n < MAX_REQUESTS - reserve:
+        path = queue.pop(0)
+        key = split(path)[0] + "?" + urlencode(sorted(split(path)[1]))
+        if key in seen: continue
+        seen.add(key)
+        html = fx.get(path)
+        found.update(extract_items(html))
+        queue.extend(next_pages(html, path))
+    print(f"Crawled {len(seen)} listing pages")
+    return found
+
 def main():
-    fx = Fetcher(); scraped = {}
-    for p in LIST_PAGES: scraped.update(extract_items(fx.get(p)))
+    fx = Fetcher()
     today = datetime.date.today()
+    seeds = list(LIST_PAGES)
     for i in range(0, 12):  # monthly schedule pages
         y, m = divmod(today.year * 12 + today.month - 1 + i, 12)
-        scraped.update(extract_items(fx.get(f"/schedule/?month={y}-{m + 1:02d}")))
+        seeds.append(f"/schedule/?month={y}-{m + 1:02d}")
+    scraped = crawl(fx, seeds)
     print(f"Found {len(scraped)} figures with {fx.n} requests")
     if len(scraped) < MIN_FOUND:
         print("Too few figures parsed; the site layout may have changed. Not writing.", file=sys.stderr); sys.exit(1)
