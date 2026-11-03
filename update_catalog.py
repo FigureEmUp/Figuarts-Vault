@@ -84,7 +84,8 @@ class Fetcher:
         try: self.rp.read()
         except Exception: pass
     def get(self, path):
-        url = BASE + path
+                   sep = "&" if "?" in path else "?"
+           url = BASE + path + sep + "wovn=en"
         if self.n >= MAX_REQUESTS or not self.rp.can_fetch(UA, url): return ""
         self.n += 1; time.sleep(DELAY)
         try:
