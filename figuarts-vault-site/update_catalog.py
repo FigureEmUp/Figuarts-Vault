@@ -6,7 +6,7 @@ import json, re, sys, time, datetime, difflib, urllib.request, urllib.robotparse
 from html.parser import HTMLParser
 
 BASE = "https://tamashiiweb.com"
-UA = "FiguartsVaultBot/1.0 (hobby catalog; contact: YOUR_EMAIL_HERE)"
+UA = "FiguartsVaultBot/1.0 (hobby catalog; contact: jenksliam@yahoo.com)"
 DELAY, MAX_REQUESTS, MIN_FOUND = 1.5, 120, 15
 LIST_PAGES = ["/item_brand/shfiguarts/", "/item_brand/shinkocchou/", "/item_brand/figuarts_series/"]
 MONTHS = {m: i + 1 for i, m in enumerate("January February March April May June July August September October November December".split())}
