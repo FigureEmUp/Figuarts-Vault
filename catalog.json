@@ -2,6 +2,213 @@
  "updated": "2026-11-03",
  "figures": [
   {
+   "id": "tn16251",
+   "series": "One Piece",
+   "tn": "16251",
+   "url": "https://tamashiiweb.com/item/16251/",
+   "name": "[Lottery Sale] EDWARD.NEWGATE -MARINEFORD- [2nd Batch: Shipping in July 2027]",
+   "price": "¥28,600",
+   "release": "2027-07"
+  },
+  {
+   "id": "tn16144",
+   "series": "Other",
+   "tn": "16144",
+   "url": "https://tamashiiweb.com/item/16144/",
+   "name": "FEMTO",
+   "price": "¥14,300",
+   "release": "2027-07"
+  },
+  {
+   "id": "tn16163",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16163",
+   "url": "https://tamashiiweb.com/item/16163/",
+   "name": "Shinobu Kocho",
+   "price": "",
+   "release": "2027-06"
+  },
+  {
+   "id": "tn16162",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16162",
+   "url": "https://tamashiiweb.com/item/16162/",
+   "name": "INOSUKE HASHIBIRA",
+   "price": "",
+   "release": "2027-06"
+  },
+  {
+   "id": "tn16164",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16164",
+   "url": "https://tamashiiweb.com/item/16164/",
+   "name": "DOMA",
+   "price": "",
+   "release": "2027-06"
+  },
+  {
+   "id": "tn16081",
+   "series": "Dragon Ball",
+   "tn": "16081",
+   "url": "https://tamashiiweb.com/item/16081/",
+   "name": "TENSHINHAN (Z-FIGHTERS)",
+   "price": "¥8,250",
+   "release": "2027-05"
+  },
+  {
+   "id": "tn16145",
+   "series": "One Piece",
+   "tn": "16145",
+   "url": "https://tamashiiweb.com/item/16145/",
+   "name": "NAMI -TWO YEARS LATER",
+   "price": "¥7,700",
+   "release": "2027-05"
+  },
+  {
+   "id": "tn16147",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16147",
+   "url": "https://tamashiiweb.com/item/16147/",
+   "name": "MUICHIRO TOKITO",
+   "price": "",
+   "release": "2027-05"
+  },
+  {
+   "id": "tn16160",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16160",
+   "url": "https://tamashiiweb.com/item/16160/",
+   "name": "Kyojuro Rengoku",
+   "price": "",
+   "release": "2027-05"
+  },
+  {
+   "id": "tn16082",
+   "series": "Dragon Ball",
+   "tn": "16082",
+   "url": "https://tamashiiweb.com/item/16082/",
+   "name": "CHAOZU (Z-FIGHTERS)",
+   "price": "¥6,600",
+   "release": "2027-05"
+  },
+  {
+   "id": "tn16161",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16161",
+   "url": "https://tamashiiweb.com/item/16161/",
+   "name": "Akaza",
+   "price": "",
+   "release": "2027-05"
+  },
+  {
+   "id": "tn16143",
+   "series": "Star Wars",
+   "tn": "16143",
+   "url": "https://tamashiiweb.com/item/16143/",
+   "name": "Princess Leia Organa (STAR WARS: A New Hope) -Movie Poster Color Ver.",
+   "price": "¥9,900",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16142",
+   "series": "Star Wars",
+   "tn": "16142",
+   "url": "https://tamashiiweb.com/item/16142/",
+   "name": "Luke Skywalker (STAR WARS: A New Hope) -Movie Poster Color Ver.",
+   "price": "¥9,900",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16086",
+   "series": "My Hero Academia",
+   "tn": "16086",
+   "url": "https://tamashiiweb.com/item/16086/",
+   "name": "ENDEAVOR",
+   "price": "¥13,200",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16141",
+   "series": "Star Wars",
+   "tn": "16141",
+   "url": "https://tamashiiweb.com/item/16141/",
+   "name": "Darth Vader (STAR WARS: A New Hope) -Movie Poster Color Ver.",
+   "price": "¥9,900",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16194",
+   "series": "Kamen Rider",
+   "tn": "16194",
+   "url": "https://tamashiiweb.com/item/16194/",
+   "name": "(SHINKOCCHOU SEIHOU) VOLCANCER & MASKED RIDER SCISSORS OPTION PARTS SET",
+   "price": "¥13,200",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16154",
+   "series": "Ultraman",
+   "tn": "16154",
+   "url": "https://tamashiiweb.com/item/16154/",
+   "name": "(SHINKOCCHOU SEIHOU) ULTRAMAN TIGA MULTI TYPE 30th Anniversary Edition",
+   "price": "¥15,400",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16153",
+   "series": "Ultraman",
+   "tn": "16153",
+   "url": "https://tamashiiweb.com/item/16153/",
+   "name": "(SHINKOCCHOU SEIHOU) ULTRAMAN 60th Anniversary Edition",
+   "price": "¥15,400",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16208",
+   "series": "Kamen Rider",
+   "tn": "16208",
+   "url": "https://tamashiiweb.com/item/16208/",
+   "name": "(SHINKOCCHOU SEIHOU) RIDERMAN LEGENDARY SHOWA MASKED RIDERS EDITION",
+   "price": "¥11,000",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16193",
+   "series": "Kamen Rider",
+   "tn": "16193",
+   "url": "https://tamashiiweb.com/item/16193/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER SCISSORS",
+   "price": "¥11,000",
+   "release": "2027-04"
+  },
+  {
+   "id": "tn16205",
+   "series": "Kamen Rider",
+   "tn": "16205",
+   "url": "https://tamashiiweb.com/item/16205/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER KUUGA GROWING FORM KAMEN RIDER 55th Anniversary Ver.",
+   "price": "¥8,800",
+   "release": "2027-03"
+  },
+  {
+   "id": "tn16168",
+   "series": "Kamen Rider",
+   "tn": "16168",
+   "url": "https://tamashiiweb.com/item/16168/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER DARK KABUTO RIDER FORM 20th Anniversary Ver.",
+   "price": "¥11,000",
+   "release": "2027-02"
+  },
+  {
+   "id": "tn15898",
+   "series": "Kamen Rider",
+   "tn": "15898",
+   "url": "https://tamashiiweb.com/item/15898/",
+   "name": "(SHINKOCCHOU SEIHOU) SHADOWMOON SHADOW FLASH EDITION",
+   "price": "",
+   "release": "2027-01"
+  },
+  {
    "id": "ultraman-theo",
    "name": "Ultraman Theo",
    "series": "Ultraman",
@@ -9,139 +216,58 @@
    "price": "¥7,150"
   },
   {
-   "id": "tn16082",
-   "series": "ドラゴンボールシリーズ",
-   "tn": "16082",
-   "url": "https://tamashiiweb.com/item/16082/",
-   "name": "餃子〈Z戦士〉 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
-   "price": "¥6,600",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16163",
-   "series": "ジャンプキャラクターズ",
-   "tn": "16163",
-   "url": "https://tamashiiweb.com/item/16163/",
-   "name": "胡蝶しのぶ 一般店頭販売商品 2026年11月2日 予約開始 2027年6月 発売予定",
-   "price": "",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16164",
-   "series": "ジャンプキャラクターズ",
-   "tn": "16164",
-   "url": "https://tamashiiweb.com/item/16164/",
-   "name": "童磨 一般店頭販売商品 2026年11月2日 予約開始 2027年6月 発売予定",
-   "price": "",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16161",
-   "series": "ジャンプキャラクターズ",
-   "tn": "16161",
-   "url": "https://tamashiiweb.com/item/16161/",
-   "name": "猗窩座 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
-   "price": "",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16160",
-   "series": "ジャンプキャラクターズ",
-   "tn": "16160",
-   "url": "https://tamashiiweb.com/item/16160/",
-   "name": "煉獄杏寿郎 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
-   "price": "",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16147",
-   "series": "ジャンプキャラクターズ",
-   "tn": "16147",
-   "url": "https://tamashiiweb.com/item/16147/",
-   "name": "時透無一郎 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
-   "price": "",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16214",
-   "series": "ドラゴンボールシリーズ",
-   "tn": "16214",
-   "url": "https://tamashiiweb.com/item/16214/",
-   "name": "孫悟空＆龍-DRAGON BALL STORE Exclusive Edition- その他限定商品 2026年11月 発売予定",
+   "id": "tn16203",
+   "series": "Kamen Rider",
+   "tn": "16203",
+   "url": "https://tamashiiweb.com/item/16203/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER KUUGA Titan Form Kamen Rider 55th Anniversary Ver.",
    "price": "¥8,800",
-   "release": "2026-11"
+   "release": "2026-12"
   },
   {
-   "id": "tn16081",
-   "series": "ドラゴンボールシリーズ",
-   "tn": "16081",
-   "url": "https://tamashiiweb.com/item/16081/",
-   "name": "天津飯〈Z戦士〉 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
-   "price": "¥8,250",
-   "release": "2026-11"
+   "id": "tn16202",
+   "series": "Kamen Rider",
+   "tn": "16202",
+   "url": "https://tamashiiweb.com/item/16202/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER KUUGA Pegasus Form Kamen Rider 55th Anniversary Ver.",
+   "price": "¥8,800",
+   "release": "2026-12"
   },
   {
-   "id": "tn16162",
-   "series": "ジャンプキャラクターズ",
-   "tn": "16162",
-   "url": "https://tamashiiweb.com/item/16162/",
-   "name": "嘴平伊之助 一般店頭販売商品 2026年11月2日 予約開始 2027年6月 発売予定",
+   "id": "tn16200",
+   "series": "Kamen Rider",
+   "tn": "16200",
+   "url": "https://tamashiiweb.com/item/16200/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER KUUGA MIGHTY FORM Kamen Rider 55th Anniversary Ver.",
+   "price": "¥9,900",
+   "release": "2026-12"
+  },
+  {
+   "id": "tn16201",
+   "series": "Kamen Rider",
+   "tn": "16201",
+   "url": "https://tamashiiweb.com/item/16201/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER KUUGA Dragon Form Kamen Rider 55th Anniversary Ver.",
+   "price": "¥8,800",
+   "release": "2026-12"
+  },
+  {
+   "id": "tn15897",
+   "series": "Kamen Rider",
+   "tn": "15897",
+   "url": "https://tamashiiweb.com/item/15897/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER BLACK KINGSTONE FLASH EDITION (FIRST RELEASE)",
    "price": "",
-   "release": "2026-11"
+   "release": "2026-12"
   },
   {
-   "id": "tn16142",
-   "series": "STAR WARS",
-   "tn": "16142",
-   "url": "https://tamashiiweb.com/item/16142/",
-   "name": "ルーク・スカイウォーカー（STAR WARS: A New Hope）-Movie Poster Color Ver.- 一般店頭販売商品",
-   "price": "¥9,900",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16143",
-   "series": "STAR WARS",
-   "tn": "16143",
-   "url": "https://tamashiiweb.com/item/16143/",
-   "name": "プリンセス・レイア・オーガナ（STAR WARS: A New Hope）-Movie Poster Color Ver.- 一般店頭販売商品",
-   "price": "¥9,900",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16144",
+   "id": "tn15893",
    "series": "Other",
-   "tn": "16144",
-   "url": "https://tamashiiweb.com/item/16144/",
-   "name": "フェムト 一般店頭販売商品 2026年11月2日 予約開始 2027年7月 発売予定",
-   "price": "¥14,300",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16145",
-   "series": "ワンピース",
-   "tn": "16145",
-   "url": "https://tamashiiweb.com/item/16145/",
-   "name": "ナミ -新世界- 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
-   "price": "¥7,700",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16141",
-   "series": "STAR WARS",
-   "tn": "16141",
-   "url": "https://tamashiiweb.com/item/16141/",
-   "name": "ダース・ベイダー（STAR WARS: A New Hope）-Movie Poster Color Ver.- 一般店頭販売商品",
-   "price": "¥9,900",
-   "release": "2026-11"
-  },
-  {
-   "id": "tn16086",
-   "series": "僕のヒーローアカデミア",
-   "tn": "16086",
-   "url": "https://tamashiiweb.com/item/16086/",
-   "name": "エンデヴァー 一般店頭販売商品 2026年11月2日 予約開始 2027年4月 発売予定",
-   "price": "¥13,200",
-   "release": "2026-11"
+   "tn": "15893",
+   "url": "https://tamashiiweb.com/item/15893/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER 2 LEGENDARY SHOWA MASKED RIDERS EDITION",
+   "price": "",
+   "release": "2026-12"
   },
   {
    "id": "ultraman-noah",
@@ -177,6 +303,15 @@
    "series": "Honkai: Star Rail",
    "release": "2026-11",
    "price": "¥13,200"
+  },
+  {
+   "id": "tn16214",
+   "series": "Dragon Ball",
+   "tn": "16214",
+   "url": "https://tamashiiweb.com/item/16214/",
+   "name": "SON GOKU & Dragon-DRAGON BALL STORE Exclusive Edition",
+   "price": "¥8,800",
+   "release": "2026-11"
   },
   {
    "id": "kenshiro",
@@ -219,6 +354,24 @@
    "series": "Demon Slayer",
    "release": "2026-11",
    "price": "¥11,000"
+  },
+  {
+   "id": "tn16059",
+   "series": "Ultraman",
+   "tn": "16059",
+   "url": "https://tamashiiweb.com/item/16059/",
+   "name": "(SHINKOCCHOU SEIHOU) TIGA DARK",
+   "price": "",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16057",
+   "series": "Kamen Rider",
+   "tn": "16057",
+   "url": "https://tamashiiweb.com/item/16057/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER 1 / HONGO TAKESHI (MASKED RIDER THE FIRST)",
+   "price": "",
+   "release": "2026-11"
   },
   {
    "id": "spider-augment",
@@ -324,6 +477,51 @@
    "series": "Hunter x Hunter",
    "release": "2026-04",
    "price": ""
+  },
+  {
+   "id": "tn13821",
+   "series": "Ultraman",
+   "tn": "13821",
+   "url": "https://tamashiiweb.com/item/13821/",
+   "name": "(SHINKOCCHOU SEIHOU) ULTRAMAN TIGA POWER TYPE",
+   "price": "",
+   "release": ""
+  },
+  {
+   "id": "tn15273",
+   "series": "Other",
+   "tn": "15273",
+   "url": "https://tamashiiweb.com/item/15273/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER RYUKI",
+   "price": "",
+   "release": ""
+  },
+  {
+   "id": "tn15778",
+   "series": "Kamen Rider",
+   "tn": "15778",
+   "url": "https://tamashiiweb.com/item/15778/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER KABUTO RIDER FORM 20th Anniversary Ver.",
+   "price": "",
+   "release": ""
+  },
+  {
+   "id": "tn15710",
+   "series": "Kamen Rider",
+   "tn": "15710",
+   "url": "https://tamashiiweb.com/item/15710/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER BLACK RX",
+   "price": "",
+   "release": ""
+  },
+  {
+   "id": "tn15855",
+   "series": "Other",
+   "tn": "15855",
+   "url": "https://tamashiiweb.com/item/15855/",
+   "name": "(SHINKOCCHOU SEIHOU) MASKED RIDER 1 LEGENDARY SHOWA MASKED RIDERS EDITION",
+   "price": "",
+   "release": ""
   }
  ]
 }
