@@ -1,0 +1,194 @@
+{
+ "updated": "2026-11-03",
+ "figures": [
+  {
+   "id": "shinji",
+   "name": "Shinji Ikari",
+   "series": "Evangelion",
+   "release": "2026-11",
+   "price": "¥9,350"
+  },
+  {
+   "id": "gavan-luminous",
+   "name": "Gavan Luminous",
+   "series": "Super Space Sheriff Gavan",
+   "release": "2026-11",
+   "price": "¥9,900"
+  },
+  {
+   "id": "sam-spring",
+   "name": "Sam -Spring Missive-",
+   "series": "Honkai: Star Rail",
+   "release": "2026-11",
+   "price": "¥13,200"
+  },
+  {
+   "id": "gohan-zf",
+   "name": "Gohan (Z-Fighter)",
+   "series": "Dragon Ball Z",
+   "release": "2026-11",
+   "price": "¥7,700"
+  },
+  {
+   "id": "frieza-4th",
+   "name": "Frieza (Fourth Form)",
+   "series": "Dragon Ball Z",
+   "release": "2026-11",
+   "price": "$37.99"
+  },
+  {
+   "id": "ssj-goku-legendary",
+   "name": "Super Saiyan Son Goku (Legendary)",
+   "series": "Dragon Ball Z",
+   "release": "2026-11",
+   "price": "$67.99"
+  },
+  {
+   "id": "shinken-red",
+   "name": "Shinken Red (Shinkocchou Seihou)",
+   "series": "Samurai Sentai Shinkenger",
+   "release": "2026-11",
+   "price": "¥13,200"
+  },
+  {
+   "id": "kenshiro",
+   "name": "Kenshiro",
+   "series": "Fist of the North Star",
+   "release": "2026-11",
+   "price": ""
+  },
+  {
+   "id": "douma",
+   "name": "Douma",
+   "series": "Demon Slayer",
+   "release": "2026-11",
+   "price": "¥11,000"
+  },
+  {
+   "id": "ultraman-noah",
+   "name": "Ultraman Noah",
+   "series": "Ultraman",
+   "release": "2026-11",
+   "price": ""
+  },
+  {
+   "id": "deku-reissue",
+   "name": "Izuku Midoriya (Reissue)",
+   "series": "My Hero Academia",
+   "release": "2026-11",
+   "price": "$50.86"
+  },
+  {
+   "id": "ultraman-theo",
+   "name": "Ultraman Theo",
+   "series": "Ultraman",
+   "release": "2026-12",
+   "price": "¥7,150"
+  },
+  {
+   "id": "momo-v2",
+   "name": "Momo Ayase Ver.2",
+   "series": "Dandadan",
+   "release": "2026-10",
+   "price": "¥8,800"
+  },
+  {
+   "id": "geats-ix",
+   "name": "Kamen Rider Geats IX",
+   "series": "Kamen Rider",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "sanji-netflix",
+   "name": "Sanji (Netflix Series)",
+   "series": "One Piece",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "luffy-knicks",
+   "name": "Monkey D. Luffy -New York Knicks ver.-",
+   "series": "One Piece",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "luffy-lakers",
+   "name": "Monkey D. Luffy -Los Angeles Lakers ver.-",
+   "series": "One Piece",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "op-nba-hoop",
+   "name": "One Piece x NBA Basketball Hoop Set",
+   "series": "One Piece",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "hibiki-20th",
+   "name": "Kamen Rider Hibiki 20th Anniversary Ver.",
+   "series": "Kamen Rider",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "spider-augment",
+   "name": "Spider-Augment",
+   "series": "Shin Kamen Rider",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "dodoria-zarbon",
+   "name": "Dodoria & Zarbon Set",
+   "series": "Dragon Ball Z",
+   "release": "2026-09",
+   "price": ""
+  },
+  {
+   "id": "baltan-60th",
+   "name": "Alien Baltan 60th Anniversary Edition",
+   "series": "Ultraman",
+   "release": "2026-09",
+   "price": ""
+  },
+  {
+   "id": "overlay-deku",
+   "name": "Overlay Deku",
+   "series": "My Hero Academia",
+   "release": "2026-06",
+   "price": ""
+  },
+  {
+   "id": "shigaraki",
+   "name": "Tomura Shigaraki",
+   "series": "My Hero Academia",
+   "release": "2026-04",
+   "price": ""
+  },
+  {
+   "id": "ssj-vegeta-pride",
+   "name": "Super Saiyan Vegeta (Dangerous Pride)",
+   "series": "Dragon Ball Z",
+   "release": "2026-04",
+   "price": ""
+  },
+  {
+   "id": "reze",
+   "name": "Reze",
+   "series": "Chainsaw Man",
+   "release": "2026-04",
+   "price": ""
+  },
+  {
+   "id": "kurapika",
+   "name": "Kurapika",
+   "series": "Hunter x Hunter",
+   "release": "2026-04",
+   "price": ""
+  }
+ ]
+}
