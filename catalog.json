@@ -2,39 +2,153 @@
  "updated": "2026-11-03",
  "figures": [
   {
-   "id": "shinji",
-   "name": "Shinji Ikari",
-   "series": "Evangelion",
-   "release": "2026-11",
-   "price": "¥9,350"
+   "id": "ultraman-theo",
+   "name": "Ultraman Theo",
+   "series": "Ultraman",
+   "release": "2026-12",
+   "price": "¥7,150"
   },
   {
-   "id": "gavan-luminous",
-   "name": "Gavan Luminous",
-   "series": "Super Space Sheriff Gavan",
-   "release": "2026-11",
-   "price": "¥9,900"
+   "id": "tn16082",
+   "series": "ドラゴンボールシリーズ",
+   "tn": "16082",
+   "url": "https://tamashiiweb.com/item/16082/",
+   "name": "餃子〈Z戦士〉 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
+   "price": "¥6,600",
+   "release": "2026-11"
   },
   {
-   "id": "sam-spring",
-   "name": "Sam -Spring Missive-",
-   "series": "Honkai: Star Rail",
-   "release": "2026-11",
-   "price": "¥13,200"
+   "id": "tn16163",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16163",
+   "url": "https://tamashiiweb.com/item/16163/",
+   "name": "胡蝶しのぶ 一般店頭販売商品 2026年11月2日 予約開始 2027年6月 発売予定",
+   "price": "",
+   "release": "2026-11"
   },
   {
-   "id": "gohan-zf",
-   "name": "Gohan (Z-Fighter)",
-   "series": "Dragon Ball Z",
-   "release": "2026-11",
-   "price": "¥7,700"
+   "id": "tn16164",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16164",
+   "url": "https://tamashiiweb.com/item/16164/",
+   "name": "童磨 一般店頭販売商品 2026年11月2日 予約開始 2027年6月 発売予定",
+   "price": "",
+   "release": "2026-11"
   },
   {
-   "id": "frieza-4th",
-   "name": "Frieza (Fourth Form)",
-   "series": "Dragon Ball Z",
+   "id": "tn16161",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16161",
+   "url": "https://tamashiiweb.com/item/16161/",
+   "name": "猗窩座 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
+   "price": "",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16160",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16160",
+   "url": "https://tamashiiweb.com/item/16160/",
+   "name": "煉獄杏寿郎 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
+   "price": "",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16147",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16147",
+   "url": "https://tamashiiweb.com/item/16147/",
+   "name": "時透無一郎 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
+   "price": "",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16214",
+   "series": "ドラゴンボールシリーズ",
+   "tn": "16214",
+   "url": "https://tamashiiweb.com/item/16214/",
+   "name": "孫悟空＆龍-DRAGON BALL STORE Exclusive Edition- その他限定商品 2026年11月 発売予定",
+   "price": "¥8,800",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16081",
+   "series": "ドラゴンボールシリーズ",
+   "tn": "16081",
+   "url": "https://tamashiiweb.com/item/16081/",
+   "name": "天津飯〈Z戦士〉 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
+   "price": "¥8,250",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16162",
+   "series": "ジャンプキャラクターズ",
+   "tn": "16162",
+   "url": "https://tamashiiweb.com/item/16162/",
+   "name": "嘴平伊之助 一般店頭販売商品 2026年11月2日 予約開始 2027年6月 発売予定",
+   "price": "",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16142",
+   "series": "STAR WARS",
+   "tn": "16142",
+   "url": "https://tamashiiweb.com/item/16142/",
+   "name": "ルーク・スカイウォーカー（STAR WARS: A New Hope）-Movie Poster Color Ver.- 一般店頭販売商品",
+   "price": "¥9,900",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16143",
+   "series": "STAR WARS",
+   "tn": "16143",
+   "url": "https://tamashiiweb.com/item/16143/",
+   "name": "プリンセス・レイア・オーガナ（STAR WARS: A New Hope）-Movie Poster Color Ver.- 一般店頭販売商品",
+   "price": "¥9,900",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16144",
+   "series": "Other",
+   "tn": "16144",
+   "url": "https://tamashiiweb.com/item/16144/",
+   "name": "フェムト 一般店頭販売商品 2026年11月2日 予約開始 2027年7月 発売予定",
+   "price": "¥14,300",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16145",
+   "series": "ワンピース",
+   "tn": "16145",
+   "url": "https://tamashiiweb.com/item/16145/",
+   "name": "ナミ -新世界- 一般店頭販売商品 2026年11月2日 予約開始 2027年5月 発売予定",
+   "price": "¥7,700",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16141",
+   "series": "STAR WARS",
+   "tn": "16141",
+   "url": "https://tamashiiweb.com/item/16141/",
+   "name": "ダース・ベイダー（STAR WARS: A New Hope）-Movie Poster Color Ver.- 一般店頭販売商品",
+   "price": "¥9,900",
+   "release": "2026-11"
+  },
+  {
+   "id": "tn16086",
+   "series": "僕のヒーローアカデミア",
+   "tn": "16086",
+   "url": "https://tamashiiweb.com/item/16086/",
+   "name": "エンデヴァー 一般店頭販売商品 2026年11月2日 予約開始 2027年4月 発売予定",
+   "price": "¥13,200",
+   "release": "2026-11"
+  },
+  {
+   "id": "ultraman-noah",
+   "name": "Ultraman Noah",
+   "series": "Ultraman",
    "release": "2026-11",
-   "price": "$37.99"
+   "price": ""
   },
   {
    "id": "ssj-goku-legendary",
@@ -51,23 +165,23 @@
    "price": "¥13,200"
   },
   {
+   "id": "shinji",
+   "name": "Shinji Ikari",
+   "series": "Evangelion",
+   "release": "2026-11",
+   "price": "¥9,350"
+  },
+  {
+   "id": "sam-spring",
+   "name": "Sam -Spring Missive-",
+   "series": "Honkai: Star Rail",
+   "release": "2026-11",
+   "price": "¥13,200"
+  },
+  {
    "id": "kenshiro",
    "name": "Kenshiro",
    "series": "Fist of the North Star",
-   "release": "2026-11",
-   "price": ""
-  },
-  {
-   "id": "douma",
-   "name": "Douma",
-   "series": "Demon Slayer",
-   "release": "2026-11",
-   "price": "¥11,000"
-  },
-  {
-   "id": "ultraman-noah",
-   "name": "Ultraman Noah",
-   "series": "Ultraman",
    "release": "2026-11",
    "price": ""
   },
@@ -79,29 +193,50 @@
    "price": "$50.86"
   },
   {
-   "id": "ultraman-theo",
-   "name": "Ultraman Theo",
-   "series": "Ultraman",
-   "release": "2026-12",
-   "price": "¥7,150"
+   "id": "gohan-zf",
+   "name": "Gohan (Z-Fighter)",
+   "series": "Dragon Ball Z",
+   "release": "2026-11",
+   "price": "¥7,700"
   },
   {
-   "id": "momo-v2",
-   "name": "Momo Ayase Ver.2",
-   "series": "Dandadan",
-   "release": "2026-10",
-   "price": "¥8,800"
+   "id": "gavan-luminous",
+   "name": "Gavan Luminous",
+   "series": "Super Space Sheriff Gavan",
+   "release": "2026-11",
+   "price": "¥9,900"
   },
   {
-   "id": "geats-ix",
-   "name": "Kamen Rider Geats IX",
-   "series": "Kamen Rider",
+   "id": "frieza-4th",
+   "name": "Frieza (Fourth Form)",
+   "series": "Dragon Ball Z",
+   "release": "2026-11",
+   "price": "$37.99"
+  },
+  {
+   "id": "douma",
+   "name": "Douma",
+   "series": "Demon Slayer",
+   "release": "2026-11",
+   "price": "¥11,000"
+  },
+  {
+   "id": "spider-augment",
+   "name": "Spider-Augment",
+   "series": "Shin Kamen Rider",
    "release": "2026-10",
    "price": ""
   },
   {
    "id": "sanji-netflix",
    "name": "Sanji (Netflix Series)",
+   "series": "One Piece",
+   "release": "2026-10",
+   "price": ""
+  },
+  {
+   "id": "op-nba-hoop",
+   "name": "One Piece x NBA Basketball Hoop Set",
    "series": "One Piece",
    "release": "2026-10",
    "price": ""
@@ -121,11 +256,11 @@
    "price": ""
   },
   {
-   "id": "op-nba-hoop",
-   "name": "One Piece x NBA Basketball Hoop Set",
-   "series": "One Piece",
+   "id": "momo-v2",
+   "name": "Momo Ayase Ver.2",
+   "series": "Dandadan",
    "release": "2026-10",
-   "price": ""
+   "price": "¥8,800"
   },
   {
    "id": "hibiki-20th",
@@ -135,9 +270,9 @@
    "price": ""
   },
   {
-   "id": "spider-augment",
-   "name": "Spider-Augment",
-   "series": "Shin Kamen Rider",
+   "id": "geats-ix",
+   "name": "Kamen Rider Geats IX",
+   "series": "Kamen Rider",
    "release": "2026-10",
    "price": ""
   },
